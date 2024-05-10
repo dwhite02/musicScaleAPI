@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{53B19977-8A03-43D2-A7D0-7DA952A96A33}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MusicScale/Controllers/ScaleFinderController.cs">
+    <Files>
+      <File FileName="MusicScale/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="MusicScale/Controllers/WeatherForecastController.cs" Line="34" Column="1" />
+      <File FileName="MusicScale/Services/ScaleMaker.cs" Line="8" Column="4" />
+      <File FileName="MusicScale/Controllers/ScaleFinderController.cs" Line="26" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MusicScale" expanded="True">
+            <Node name="MusicScale" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ScaleFinderController.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MusicScale PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
